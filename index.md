@@ -1,10 +1,10 @@
 ---
 layout: home
-title: PHYS430 Electricity and Magnetism I
+title: PHYS570 AI and Physics
 nav_exclude: true
 seo:
   type: Course
-  name: PHYS430
+  name: PHYS570
 ---
 ## Course Description
 TBD
