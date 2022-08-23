@@ -12,25 +12,17 @@ description: >-
 
 ---
 ## Grading
-Two mid-term exams and a final exam will be given. Homework assignments will be given throughout the semester. Each homework problem will be given an assigned value of 5 points. Partial credit will be given to clear legible work. NO LATE HOMEWORK WILL BE ACCEPTED. 
-The grade components for the course are as follows:
-- Final – 30%
-- Midterm 1 – 20%
-- Midterm 2 – 20%
-- Homework – 30%
-- In class quizzes - 5% (bonus)
-Grading scale
-- A  : 92.00 – 100.00
-- A- : 90.00 - 91.99
-- B+ : 88.00 - 89.99
-- B  : 82.00 - 87.99
-- B- : 80.00 - 81.99
-- C+ : 78.00 - 79.99
-- C  : 70.00 - 77.99
-- D  : 60.00 - 69.99
-- F  : < 59.99
-Changes in these guidelines may be necessary; the examination scores will be used to determine whether these guidelines will be modified.
+# Class participation: 10%
 
+• Attendance. Peer reviews
+
+# Homework: 25%
+
+• Submit with jupyter notebooks. You are encouraged to work on solutions together. But the code needs to be written and submitted independently.
+
+# Course project: 65%
+
+• You can team up (maximum three people).
 
 ## Policies
 General Course Policies
