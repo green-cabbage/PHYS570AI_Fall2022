@@ -29,8 +29,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  # Mia Liu:
-  #   - 'http://mia.physics.purdue.edu/'
+  Mia Liu:
+    - 'http://mia.physics.purdue.edu/'
 #  Just the Class on GitHub:
 #    - 'https://github.com/mialiu149/PHYS430SPRING2022'
 footer_content:
