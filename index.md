@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PHYS570 AI and Physics
+title: PHYS570 AI and Physics Fall 2022
 nav_exclude: true
 seo:
   type: Course
