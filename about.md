@@ -12,15 +12,15 @@ description: >-
 
 ---
 ## Grading
-# Class participation: 10%
+**Class participation: 10%**
 
 • Attendance. Peer reviews
 
-# Homework: 25%
+**Homework: 25%**
 
 • Submit with jupyter notebooks. You are encouraged to work on solutions together. But the code needs to be written and submitted independently.
 
-# Course project: 65%
+**Course project: 65%**
 
 • You can team up (maximum three people).
 
