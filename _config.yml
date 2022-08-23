@@ -17,6 +17,7 @@ title: PHYS430
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Mia Liu
+baseurl: "/"
 # baseurl: '/PHYS430SPRING2022' # the subpath of your site, e.g. /blog
 url: 'https://mia.physics.purdue.edu/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
@@ -37,8 +38,9 @@ footer_content:
 # Collections for website data
 collections:
   staffers:
+  # slides:
   modules:
-#schedules:
+# schedules:
   announcements:
 # Default layouts for each collection type
 defaults:
